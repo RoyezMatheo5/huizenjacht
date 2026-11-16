@@ -21,7 +21,7 @@
 
   "excludeLocalities": ["Veldegem", "Meetkerke", "Nieuwmunster"],
 
-  "sources": { "immoweb": true, "zimmo": true, "immovlan": true, "kantoren": true, "residentie": true },
+  "sources": { "immoweb": true, "zimmo": false, "immovlan": true, "kantoren": true, "residentie": true },
 
   "siteUrl": "https://royezmatheo5.github.io/huizenjacht/"
 }

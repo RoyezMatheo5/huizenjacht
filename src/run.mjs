@@ -36,6 +36,16 @@ try {
   db = { meta: { initialized: false, sources: {} }, listings: [] };
 }
 
+// ---------- 0. Uitgeschakelde bronnen opruimen ----------
+// Advertenties van een bron die in config.json uit staat, verdwijnen stil.
+// Woningen die alleen van die bron kwamen, gaan helemaal uit de lijst.
+const enabled = (name) => Boolean(config.sources?.[name]);
+for (const name of Object.keys(db.meta.sources)) if (!enabled(name)) delete db.meta.sources[name];
+db.listings = db.listings.filter((g) => {
+  for (const [key, ad] of Object.entries(g.ads)) if (!enabled(ad.source)) delete g.ads[key];
+  return Object.keys(g.ads).length > 0;
+});
+
 // ---------- 1. Ophalen ----------
 const items = [];
 const okSources = new Set();
