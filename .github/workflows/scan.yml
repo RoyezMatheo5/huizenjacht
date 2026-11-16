@@ -1,0 +1,38 @@
+name: Huizen zoeken
+
+on:
+  schedule:
+    # Elk uur tussen 7u en 22u Belgische tijd (cron is in UTC).
+    - cron: '23 5-21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Sites afgaan en meldingen sturen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: node src/run.mjs
+
+      - name: Resultaten bewaren
+        run: |
+          git config user.name "huizenjacht-bot"
+          git config user.email "huizenjacht-bot@users.noreply.github.com"
+          git add docs/data/listings.json
+          git diff --cached --quiet || git commit -m "Update woningen $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

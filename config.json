@@ -1,0 +1,27 @@
+{
+  "maxPrice": 350000,
+  "minBedrooms": 2,
+  "keepUnknownPrice": true,
+  "keepUnknownBedrooms": true,
+
+  "areas": [
+    { "postcode": "8490", "name": "Jabbeke",       "zimmo": ["jabbeke-8490", "varsenare-8490"], "immovlan": "8490-jabbeke", "active": true },
+    { "postcode": "8460", "name": "Oudenburg",     "zimmo": ["oudenburg-8460", "roksem-8460", "ettelgem-8460", "westkerke-8460"], "immovlan": "8460-oudenburg", "active": true },
+    { "postcode": "8210", "name": "Zedelgem",      "zimmo": ["zedelgem-8210", "loppem-8210"], "immovlan": "8210-zedelgem", "active": true },
+    { "postcode": "8211", "name": "Aartrijke",     "zimmo": ["aartrijke-8211"], "immovlan": "8211-aartrijke", "active": true },
+    { "postcode": "8200", "name": "Sint-Andries / Sint-Michiels", "zimmo": ["sint-andries-8200", "sint-michiels-8200"], "immovlan": "8200-sint-andries,8200-sint-michiels", "active": true },
+    { "postcode": "8377", "name": "Zuienkerke / Houtave", "zimmo": ["zuienkerke-8377", "houtave-8377"], "immovlan": "8377-zuienkerke", "active": false },
+
+    { "postcode": "8421", "name": "Vlissegem",     "zimmo": ["vlissegem-8421"], "immovlan": "8421-vlissegem", "active": false },
+    { "postcode": "8420", "name": "Klemskerke",    "zimmo": ["klemskerke-8420"], "immovlan": "8420-klemskerke", "onlyLocalities": ["Klemskerke"], "active": false },
+    { "postcode": "8480", "name": "Eernegem",      "zimmo": ["eernegem-8480"], "immovlan": "8480-eernegem", "onlyLocalities": ["Eernegem"], "active": false },
+    { "postcode": "8470", "name": "Gistel",        "zimmo": ["gistel-8470"], "immovlan": "8470-gistel", "active": false },
+    { "postcode": "8450", "name": "Bredene",       "zimmo": ["bredene-8450"], "immovlan": "8450-bredene", "active": false }
+  ],
+
+  "excludeLocalities": ["Veldegem", "Meetkerke", "Nieuwmunster"],
+
+  "sources": { "immoweb": true, "zimmo": true, "immovlan": true, "kantoren": true, "residentie": true },
+
+  "siteUrl": "https://royezmatheo5.github.io/huizenjacht/"
+}
