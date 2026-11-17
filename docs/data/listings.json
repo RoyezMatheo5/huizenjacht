@@ -4,34 +4,34 @@
   "sources": {
    "immoweb": {
     "ok": true,
-    "count": 101,
-    "lastOk": "2026-11-17T14:40:15.396Z",
+    "count": 103,
+    "lastOk": "2026-11-17T22:59:46.704Z",
     "failStreak": 0,
     "error": null
    },
    "immovlan": {
     "ok": true,
     "count": 24,
-    "lastOk": "2026-11-17T14:40:15.396Z",
+    "lastOk": "2026-11-17T22:59:46.704Z",
     "failStreak": 0,
     "error": null
    },
    "kantoren": {
     "ok": true,
-    "count": 43,
-    "lastOk": "2026-11-17T14:40:15.396Z",
+    "count": 41,
+    "lastOk": "2026-11-17T22:59:46.704Z",
     "failStreak": 0,
     "error": null
    },
    "residentie": {
     "ok": true,
     "count": 31,
-    "lastOk": "2026-11-17T14:40:15.396Z",
+    "lastOk": "2026-11-17T22:59:46.704Z",
     "failStreak": 0,
     "error": null
    }
   },
-  "lastRun": "2026-11-17T14:40:15.396Z",
+  "lastRun": "2026-11-17T22:59:46.704Z",
   "criteria": {
    "maxPrice": 350000,
    "minBedrooms": 2,
@@ -51,9 +51,127 @@
  },
  "listings": [
   {
+   "id": "immoweb-21997517",
+   "firstSeen": "2026-11-17T22:59:46.704Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
+   "removedAt": null,
+   "priceHistory": [
+    {
+     "date": "2026-11-17T22:59:46.704Z",
+     "price": 295000
+    }
+   ],
+   "ads": {
+    "immoweb:21997517": {
+     "source": "immoweb",
+     "sourceId": "21997517",
+     "url": "https://www.immoweb.be/nl/zoekertje/21997517",
+     "title": "Gezellige en instapklare woning met grote zuidgerichte tuin",
+     "type": "HOUSE",
+     "price": 295000,
+     "bedrooms": 2,
+     "livingArea": 80,
+     "plotArea": 780,
+     "street": "Gistelsteenweg",
+     "number": "249",
+     "postcode": "8490",
+     "locality": "Jabbeke",
+     "lat": 51.1783402,
+     "lon": 3.1159378,
+     "photo": "https://media-resize.immowebstatic.be/classifieds/8e45a3b6-15f2-45e2-9e28-7336f421c2ad/736x736/eb38a85d5ade9cf23ddb7c28eac43bcd.jpg",
+     "agency": "Immo Dereeper",
+     "epc": "E",
+     "status": null,
+     "publicSale": false,
+     "description": "Gezellige en instapklare woning met grote zuidgerichte tuin",
+     "firstSeen": "2026-11-17T22:59:46.704Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
+     "gone": false
+    }
+   },
+   "title": "Gezellige en instapklare woning met grote zuidgerichte tuin",
+   "type": "HOUSE",
+   "bedrooms": 2,
+   "livingArea": 80,
+   "plotArea": 780,
+   "street": "Gistelsteenweg",
+   "number": "249",
+   "postcode": "8490",
+   "locality": "Jabbeke",
+   "lat": 51.1783402,
+   "lon": 3.1159378,
+   "photo": "https://media-resize.immowebstatic.be/classifieds/8e45a3b6-15f2-45e2-9e28-7336f421c2ad/736x736/eb38a85d5ade9cf23ddb7c28eac43bcd.jpg",
+   "epc": "E",
+   "price": 295000,
+   "agencies": [
+    "Immo Dereeper"
+   ],
+   "status": null,
+   "flags": []
+  },
+  {
+   "id": "immoweb-21997425",
+   "firstSeen": "2026-11-17T22:59:46.704Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
+   "removedAt": null,
+   "priceHistory": [
+    {
+     "date": "2026-11-17T22:59:46.704Z",
+     "price": 189000
+    }
+   ],
+   "ads": {
+    "immoweb:21997425": {
+     "source": "immoweb",
+     "sourceId": "21997425",
+     "url": "https://www.immoweb.be/nl/zoekertje/21997425",
+     "title": "je eigen vakantie plek aan het water in Jabbeke",
+     "type": "CHALET",
+     "price": 189000,
+     "bedrooms": 2,
+     "livingArea": null,
+     "plotArea": 205,
+     "street": "Kroondreef",
+     "number": "94",
+     "postcode": "8490",
+     "locality": "Jabbeke",
+     "lat": 51.1860128,
+     "lon": 3.098235,
+     "photo": "https://media-resize.immowebstatic.be/classifieds/a81cac28-a753-4dd5-9a80-437f5d17309b/736x736/dcdd83aa5c63b8b7e4b3c4ef1a3b98b0.jpg",
+     "agency": "Bricx",
+     "epc": "F",
+     "status": null,
+     "publicSale": false,
+     "description": "je eigen vakantie plek aan het water in Jabbeke",
+     "firstSeen": "2026-11-17T22:59:46.704Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
+     "gone": false
+    }
+   },
+   "title": "je eigen vakantie plek aan het water in Jabbeke",
+   "type": "CHALET",
+   "bedrooms": 2,
+   "livingArea": null,
+   "plotArea": 205,
+   "street": "Kroondreef",
+   "number": "94",
+   "postcode": "8490",
+   "locality": "Jabbeke",
+   "lat": 51.1860128,
+   "lon": 3.098235,
+   "photo": "https://media-resize.immowebstatic.be/classifieds/a81cac28-a753-4dd5-9a80-437f5d17309b/736x736/dcdd83aa5c63b8b7e4b3c4ef1a3b98b0.jpg",
+   "epc": "F",
+   "price": 189000,
+   "agencies": [
+    "Bricx"
+   ],
+   "status": null,
+   "flags": []
+  },
+  {
    "id": "immoweb-21996190",
    "firstSeen": "2026-11-17T14:40:15.396Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -66,7 +184,7 @@
      "source": "immoweb",
      "sourceId": "21996190",
      "url": "https://www.immoweb.be/nl/zoekertje/21996190",
-     "title": "Uniek project op een boogscheut van het stadscentrum!",
+     "title": "Uniek project op een boogscheut van het stadscentrum",
      "type": "TOWN_HOUSE",
      "price": 225000,
      "bedrooms": 3,
@@ -75,7 +193,7 @@
      "street": "Spoorwegstraat",
      "number": "114",
      "postcode": "8200",
-     "locality": "Brugge",
+     "locality": "Sint-Michiels",
      "lat": 51.1887485,
      "lon": 3.2217977,
      "photo": "https://media-resize.immowebstatic.be/classifieds/ba3e73d3-0206-4723-a8d6-4d8e0e42dbd8/736x736/4d97f961f91422d85bbc2e937848c2ef.jpg",
@@ -83,13 +201,13 @@
      "epc": "F",
      "status": null,
      "publicSale": false,
-     "description": "Uniek project op een boogscheut van het stadscentrum!",
+     "description": "Uniek project op een boogscheut van het stadscentrum",
      "firstSeen": "2026-11-17T14:40:15.396Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
-   "title": "Uniek project op een boogscheut van het stadscentrum!",
+   "title": "Uniek project op een boogscheut van het stadscentrum",
    "type": "TOWN_HOUSE",
    "bedrooms": 3,
    "livingArea": 174,
@@ -97,7 +215,7 @@
    "street": "Spoorwegstraat",
    "number": "114",
    "postcode": "8200",
-   "locality": "Sint-Andries/Sint-Michiels",
+   "locality": "Sint-Michiels",
    "lat": 51.1887485,
    "lon": 3.2217977,
    "photo": "https://media-resize.immowebstatic.be/classifieds/ba3e73d3-0206-4723-a8d6-4d8e0e42dbd8/736x736/4d97f961f91422d85bbc2e937848c2ef.jpg",
@@ -112,7 +230,7 @@
   {
    "id": "immoweb-21994106",
    "firstSeen": "2026-11-16T23:46:46.019Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -144,7 +262,7 @@
      "publicSale": false,
      "description": "Ruime gezinswoning met 3 tot 4  slaapkamers, garage en zonn",
      "firstSeen": "2026-11-16T23:46:46.019Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8643467": {
@@ -170,7 +288,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T23:46:46.019Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -285,7 +403,7 @@
   {
    "id": "immoweb-21989502",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -317,7 +435,7 @@
      "publicSale": false,
      "description": "Prachtig en centraal gelegen woning met 3 slpk en tuin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -345,7 +463,7 @@
   {
    "id": "immoweb-21985684",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -377,7 +495,7 @@
      "publicSale": false,
      "description": "Unieke eigendom met extra polyvalente ruimte op topligging",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:3b7117c5-4507746": {
@@ -403,7 +521,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -432,7 +550,7 @@
   {
    "id": "immoweb-21985432",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -464,7 +582,7 @@
      "publicSale": false,
      "description": "Ruime hoekwoning met 4 slpks op rustige ligging te St-Andri",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21983139": {
@@ -490,7 +608,7 @@
      "publicSale": false,
      "description": "Ruime gezinswoning op topligging in Sint-Andries",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21568438": {
@@ -516,7 +634,7 @@
      "publicSale": false,
      "description": "Halfopen te Sint-Andries",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -546,7 +664,7 @@
   {
    "id": "immoweb-21762638",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -578,7 +696,7 @@
      "publicSale": false,
      "description": "Te renoveren woning in centrum Varsenare",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:6d5bae6d-4426777": {
@@ -604,7 +722,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -634,7 +752,7 @@
   {
    "id": "immoweb-21984565",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -666,7 +784,7 @@
      "publicSale": false,
      "description": "Halfopen woning met oprit en garage gelegen te Zedelgem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -694,7 +812,7 @@
   {
    "id": "immoweb-21982974",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -726,7 +844,7 @@
      "publicSale": false,
      "description": "Volledig gerenoveerde woning (gezinswoning/kangoeroe/co-hou",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -754,7 +872,7 @@
   {
    "id": "immoweb-21982973",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -786,7 +904,7 @@
      "publicSale": false,
      "description": "Te renoveren halfopen bebouwing 600m²met ruime tuin en gara",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -816,7 +934,7 @@
   {
    "id": "immoweb-21982550",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -852,7 +970,7 @@
      "publicSale": false,
      "description": "Knappe starterswoning vlakbij het historisch centrum van Br",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX40475": {
@@ -878,7 +996,7 @@
      "publicSale": false,
      "description": "Deze DEGELIJKE, LICHTRIJKE en ENERGIEZUINIGE (label B) woning met achterliggende GARAGE, situeert zich op een TOPLIGGING, nabij het centrum van Sint-Michiels! Dit in een ZEER AANGENAME WOONOMGEVING met diverse faciliteiten op WANDELAFSTAND! Deze woning heeft DIVERSE VERNIEUWINGEN ondergaan, o.m. nieuw dak (1999), CV op aardgas (2006), nieuwe tegelvloer, design-gashaard, ... Mits enkele laatste opfrissingen wordt dit uw IDEALE THUIS!U heeft royale inkomhal, lichtrijke woonkamer met open uitzicht op de achterliggende tuin, afzonderlijke ingerichte keuken, berging en toilet.Op de bovenverdieping ",
      "firstSeen": "2026-11-16T23:46:46.019Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21994941": {
@@ -904,7 +1022,7 @@
      "publicSale": false,
      "description": "LICHTRIJKE woning mét GARAGE op TOPLIGGING!",
      "firstSeen": "2026-11-17T14:40:15.396Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -933,7 +1051,7 @@
   {
    "id": "immoweb-21982547",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -965,7 +1083,7 @@
      "publicSale": false,
      "description": "Charmante woning in hartje Aartrijke met 4 slaapkamers",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -993,7 +1111,7 @@
   {
    "id": "immoweb-21977834",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1025,7 +1143,7 @@
      "publicSale": false,
      "description": "Huis met 4 slaapkamers op toplocatie",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1053,7 +1171,7 @@
   {
    "id": "immoweb-21981611",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1085,7 +1203,7 @@
      "publicSale": false,
      "description": "Volledig te renoveren woning met 3 slaapkamers en tal van m",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1115,7 +1233,7 @@
   {
    "id": "immoweb-21981578",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1147,7 +1265,7 @@
      "publicSale": false,
      "description": "Te renoveren halfopen bebouwing met 3 slaapkamers",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21981577": {
@@ -1173,7 +1291,7 @@
      "publicSale": false,
      "description": "Te renoveren halfopen bebouwing met 3 slaapkamers",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21851344": {
@@ -1199,7 +1317,7 @@
      "publicSale": false,
      "description": "Karaktervolle halfopen woning met 3 slaapkamers en garage...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBV95525": {
@@ -1225,7 +1343,7 @@
      "publicSale": false,
      "description": "Deze stevige halfopen bebouwing is gelegen in de gegeerde wijk Fort Zevenbergen te Sint-Andries en biedt heel wat potentieel voor wie op zoek is naar ruimte, een solide constructie en een uitstekende ligging. De woning dient gerenoveerd/opgefrist te worden, maar beschikt over mooie volumes en een aangename indeling. VANAF-PRIJS Indeling gelijkvloers: inkomhal, lichtrijke woonkamer met eetplaats, afzonderlijke ingerichte keuken, praktische berging/wasplaats en kelder. Buiten geniet u van een tuin met terras, oprit en een garage achteraan het perceel. Op de eerste verdieping bevinden zich 3 volw",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:2580006c-9074029": {
@@ -1251,7 +1369,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1284,7 +1402,7 @@
   {
    "id": "immoweb-21981326",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1316,7 +1434,7 @@
      "publicSale": false,
      "description": "Centraal gelegen open bebouwing met tuinn parking en garage",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1344,7 +1462,7 @@
   {
    "id": "immoweb-21905175",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1376,7 +1494,7 @@
      "publicSale": false,
      "description": "Vakantiewoning in het domein Klein Strand te Jabbeke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21976507": {
@@ -1402,7 +1520,7 @@
      "publicSale": false,
      "description": "Prachtige chalet op uitstekende ligging binnen domein Kle...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX36764": {
@@ -1428,7 +1546,7 @@
      "publicSale": false,
      "description": "Op het gekende recreatiedomein Klein Strand bevindt zich deze charmante alleenstaande vakantiewoning.Dankzij de rustige ligging en de vele faciliteiten in de directe omgeving vormt dit de ideale uitvalsbasis voor wie op zoek is naar een tweede verblijf of een interessante investering. Uw domicilie kan hier niet worden geplaatst.Het domein staat bekend om zijn unieke setting aan een recreatiemeer met strand en biedt tal van ontspanningsmogelijkheden. Bovendien geniet u hier van een vlotte verbinding naar zowel Brugge als de Belgische kust.Bij het binnenkomen geniet u meteen van een open en aang",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1459,7 +1577,7 @@
   {
    "id": "immoweb-21979908",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1491,7 +1609,7 @@
      "publicSale": false,
      "description": "Te renoveren woning met zuidwest gerichte tuin.",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1521,7 +1639,7 @@
   {
    "id": "immoweb-21976712",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1553,7 +1671,7 @@
      "publicSale": false,
      "description": "Renovatiekans met zonnige tuin en achteruitgang",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX35800": {
@@ -1579,7 +1697,7 @@
      "publicSale": false,
      "description": "Geen afgewerkt verhaal, wel een goede basis om er zelf één van te maken. Deze rijwoning in de Zandstraat in Sint-Andries biedt 107 m² bewoonbare oppervlakte op een perceel van 233 m², met achteraan een diepe zuid gerichte tuin. Op het gelijkvloers volgen zithoek, eetkamer en keuken elkaar op, aangevuld met een wasruimte en badkamer. De hoge ramen zorgen voor aangenaam daglicht en geven de leefruimtes meer ruimtelijkheid dan je op het eerste gezicht zou verwachten. Op de verdieping bevinden zich twee slaapkamers. De deels ingerichte zolderruimte met dakraam biedt een relatief makkelijke mogelij",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:2580006c-9103828": {
@@ -1605,7 +1723,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1635,7 +1753,7 @@
   {
    "id": "immoweb-21976121",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1667,7 +1785,7 @@
      "publicSale": false,
      "description": "Charmante alleenstaande woning op een perceel van 461 m² ...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX35997": {
@@ -1693,7 +1811,7 @@
      "publicSale": false,
      "description": "Deze charmante alleenstaande woning op een perceel van 461 m² is gelegen op een uitstekende ligging in Sint-Michiels Brugge, vlotte verbinding nabij invalswegen, openbaar vervoer, winkels en scholen.De woning beschikt over een ruime oprit met automatische poort en privatieve parking voor minstens 3 wagens, aangevuld met een garage, carport en extra buitenberging. Binnen is de indeling als volgt: inkomhal, woonkamer met eetplaats, geïnstalleerde keuken, berging en badkamer met apart toilet. Op het eerste verdiep treft men een nachthal, slaapkamer 1, slaapkamer 2 en zolderruimte. Een extra toef ",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1721,7 +1839,7 @@
   {
    "id": "immoweb-21976080",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1753,7 +1871,7 @@
      "publicSale": false,
      "description": "Charmante woning met uitweg achteraan nabij het centrum",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21911656": {
@@ -1779,7 +1897,7 @@
      "publicSale": false,
      "description": "Charmante woning met uitweg achteraan nabij het centrum",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:6d5bae6d-4480405": {
@@ -1805,7 +1923,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1833,7 +1951,7 @@
   {
    "id": "immoweb-21974221",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1865,7 +1983,7 @@
      "publicSale": false,
      "description": "Instapklare woning met 3 slaapkamers en verrassend diepe, z",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8640737": {
@@ -1891,7 +2009,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -1920,7 +2038,7 @@
   {
    "id": "immoweb-21973598",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -1952,7 +2070,7 @@
      "publicSale": false,
      "description": "Te renoveren woning met garage en veel potentieel",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX32692": {
@@ -1978,7 +2096,7 @@
      "publicSale": false,
      "description": "Op een absolute toplocatie in Sint-Michiels bevindt zich deze verrassend ruime, te renoveren gezinswoning. Hét grote pluspunt is het zon-georienteerde perceel van 322 m² met een zeldzame dubbele toegankelijkheid. Naast de hoofdinkom via de Rijselstraat beschikt de eigendom aan de achterzijde namelijk over een praktische uitweg met een afzonderlijke garage die rechtstreeks uitgeeft op de Tillegemstraat. Met een bruikbare vloeroppervlakte van ongeveer 198 m² biedt het pand een uitzonderlijk stevige basis en volop potentieel. Via de inkomhal op het gelijkvloers betreedt u de royale leefruimte. Aa",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2008,7 +2126,7 @@
   {
    "id": "immoweb-21973154",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2040,7 +2158,7 @@
      "publicSale": false,
      "description": "Instapklare stadswoning in centrum Oudenburg",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:7225846": {
@@ -2066,7 +2184,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2095,7 +2213,7 @@
   {
    "id": "immoweb-21972759",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2127,7 +2245,7 @@
      "publicSale": false,
      "description": "Warme alleenstaande woning met grote tuin in het hartje van",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2155,7 +2273,7 @@
   {
    "id": "immoweb-21970956",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2187,7 +2305,7 @@
      "publicSale": false,
      "description": "Ruime woonst met veel potentieel!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2215,7 +2333,7 @@
   {
    "id": "immoweb-21969976",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2251,7 +2369,7 @@
      "publicSale": false,
      "description": "Unieke kleine verkaveling te Zedelgem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21285703": {
@@ -2277,7 +2395,7 @@
      "publicSale": false,
      "description": "Nieuwbouwproject - Laatste 9 woningen - 45% VERKOCHT",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX26654": {
@@ -2303,7 +2421,7 @@
      "publicSale": false,
      "description": "Deze goed onderhouden alleenstaande woning is rustig gelegen en biedt een mooie combinatie van ruimte, comfort en privacy. Een absolute troef is de ruime, zuidwestgerichte tuin zonder inkijk, waar u in alle rust kunt genieten van het aangelegde terras. De woning omvat een inkomhal, lichtrijke leefruimte met zit- en eethoek en een recent geplaatst ingebouwd haardvuur (2023), een ruime keuken met eetplaats en toegang tot de tuin met tuinberging. Op de verdieping bevinden zich 3 slaapkamers, een nachthal met afzonderlijk toilet en een badkamer met ligbad, douchemogelijkheid en lavabo. Via een tra",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2334,7 +2452,7 @@
   {
    "id": "immoweb-21960615",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2366,7 +2484,7 @@
      "publicSale": false,
      "description": "Te renoveren halfopen woning met veel potentieel",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2396,7 +2514,7 @@
   {
    "id": "immoweb-21968489",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2428,7 +2546,7 @@
      "publicSale": false,
      "description": "Charmante te renoveren halfopen woning met garage en ruime t",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2458,7 +2576,7 @@
   {
    "id": "immoweb-21968466",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2490,7 +2608,7 @@
      "publicSale": false,
      "description": "Centrale instapklare woning met tuin en garage in het centru",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2518,7 +2636,7 @@
   {
    "id": "immoweb-21966863",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2550,7 +2668,7 @@
      "publicSale": false,
      "description": "Leuke woning met bijhorende weide op 1800m2",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2578,7 +2696,7 @@
   {
    "id": "immoweb-21963833",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2610,7 +2728,7 @@
      "publicSale": false,
      "description": "Gelijkvloerse bungalow met 3 slaapkamers en open verzichten in Oudenburg Te Koop",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2638,7 +2756,7 @@
   {
    "id": "immoweb-21960798",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2670,7 +2788,7 @@
      "publicSale": false,
      "description": "3-slaapkamerwoning met garage te Sint-Michiels",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2698,7 +2816,7 @@
   {
    "id": "immoweb-21960053",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2723,14 +2841,14 @@
      "locality": "Aartrijke",
      "lat": 51.1201793,
      "lon": 3.0822091,
-     "photo": "https://media-resize.immowebstatic.be/classifieds/be7822ea-2093-4657-bae9-10faea613f99/736x736/c0492051e93cf113868e21f09afd1cf2.jpg",
+     "photo": "https://media-resize.immowebstatic.be/classifieds/be7822ea-2093-4657-bae9-10faea613f99/736x736/1928283ef63149c21f21b46ff4d18cdf.jpg",
      "agency": "Immo Gryson Torhout",
      "epc": "B",
      "status": null,
      "publicSale": false,
      "description": "Recente, lichtrijke woning met zeer ruime garage!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:3b7117c5-4500799": {
@@ -2756,7 +2874,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2771,7 +2889,7 @@
    "locality": "Aartrijke",
    "lat": 51.1201793,
    "lon": 3.0822091,
-   "photo": "https://media-resize.immowebstatic.be/classifieds/be7822ea-2093-4657-bae9-10faea613f99/736x736/c0492051e93cf113868e21f09afd1cf2.jpg",
+   "photo": "https://media-resize.immowebstatic.be/classifieds/be7822ea-2093-4657-bae9-10faea613f99/736x736/1928283ef63149c21f21b46ff4d18cdf.jpg",
    "epc": "B",
    "price": 289000,
    "agencies": [
@@ -2785,7 +2903,7 @@
   {
    "id": "immoweb-21958078",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2817,7 +2935,7 @@
      "publicSale": false,
      "description": "Instapklare rijwoning nabij centrum",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2845,7 +2963,7 @@
   {
    "id": "immoweb-21955625",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2877,7 +2995,7 @@
      "publicSale": false,
      "description": "Handelswoning op topligging te Aartrijke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8640286": {
@@ -2903,7 +3021,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2932,7 +3050,7 @@
   {
    "id": "immoweb-21952602",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -2964,7 +3082,7 @@
      "publicSale": false,
      "description": "Vrijstaande woning op 732 m² met 3 slpks en garage",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -2992,7 +3110,7 @@
   {
    "id": "immoweb-21952058",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [],
    "ads": {
@@ -3019,7 +3137,7 @@
      "publicSale": false,
      "description": "8 nieuwe sociale koopwoningen in Westkerke - Oudenburg",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3047,7 +3165,7 @@
   {
    "id": "immoweb-21950400",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3079,7 +3197,7 @@
      "publicSale": false,
      "description": "Leuke woning met terras op enkele passen van de Smedenpoort!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX11044": {
@@ -3105,7 +3223,7 @@
      "publicSale": false,
      "description": "Deze halfopen bel-etagewoning in de Stokveldewijk heeft een degelijke basis, een praktische indeling en vooral nog ruimte voor een eigen verhaal. Met drie slaapkamers, een garage en een aangename tuin is dit een woning die zich vlot laat aanpassen aan een nieuwe generatie bewoners. Op het gelijkvloers bevindt zich een ruime garage met aansluitende berging - die ook kan omgeturnd worden tot bureau / hobbyruimte /de slaapkamer - en rechtstreekse toegang tot de tuin. Handig voor fietsen, voorraad, hobby’s of gewoon alles wat je liever niet in de woonkamer ziet staan. Een verdieping hoger ligt de ",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3133,7 +3251,7 @@
   {
    "id": "immoweb-21890446",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3165,7 +3283,7 @@
      "publicSale": false,
      "description": "Woning met veel potentieel in fietsstraat in Sint-Michiels",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21907671": {
@@ -3191,7 +3309,7 @@
      "publicSale": false,
      "description": "Charmante woning op een gegeerde locatie in Sint-Michiels...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3220,7 +3338,7 @@
   {
    "id": "immoweb-21948590",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3252,7 +3370,7 @@
      "publicSale": false,
      "description": "Bijzondere loftwoning binnen KMO-omgeving",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21876181": {
@@ -3278,7 +3396,7 @@
      "publicSale": false,
      "description": "Bijzondere loftwoning binnen KMO-omgeving",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX26225": {
@@ -3304,7 +3422,7 @@
      "publicSale": false,
      "description": "Deze bijzondere loftwoning bevindt zich op een nieuwe bedrijfssite en geniet van een mooi open uitzicht over de velden. De woning is discreet gelegen in de site wordt volledig instapklaar afgewerkt en biedt alle hedendaags wooncomfort met aandacht voor energiezuinigheid. Dankzij het E-peil van 18, de warmtepomp, zonnepanelen en het ventilatiesysteem bent u verzekerd van een comfortabele en duurzame woning.De benedenverdieping is ingericht als volgt: inkomhall, gezellige open leefruimte met geïnstalleerde keuken; je ervaart een instant aangenaam gevoel van ruimte en natuurlijke lichtinval. Aans",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX03048": {
@@ -3330,7 +3448,7 @@
      "publicSale": false,
      "description": "Deze bijzondere loftwoning bevindt zich op een nieuwe bedrijfssite en geniet van een mooi open uitzicht over de velden. De woning is discreet gelegen in de site en wordt verkocht in de huidige, actueel afgewerkte staat (elektriciteit, bevloeringen, ...) aan de vermelde prijs. Er bestaat evenwel de mogelijkheid om de woning verder te laten afwerken mits meerprijs.De woning biedt alle hedendaags wooncomfort met aandacht voor energiezuinigheid. Dankzij het E-peil van 18, de warmtepomp, zonnepanelen en het ventilatiesysteem bent u verzekerd van een comfortabele en duurzame woning.De benedenverdiep",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3358,7 +3476,7 @@
   {
    "id": "immoweb-21948112",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3390,7 +3508,7 @@
      "publicSale": false,
      "description": "OPENDEUR ZATERDAG 21/11 van 10 tot 12u! Zonder afspraak",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX25426": {
@@ -3416,7 +3534,7 @@
      "publicSale": false,
      "description": "Op een boogscheut van Brugge centrum en het station, vinden we deze HALF-OPEN WONING met GROTE GARAGE. Grondoppervlakte 296 m². De woning beschikt reeds over dubbele beglazing in pvc met rolluiken.Op het gelijkvloers: inkom, mooie leefruimte, keuken, handige berging en kelder.Op het verdiep: 3 tot 4 slaapkamers (mits inrichten zolder) en badkamer met ligbad.Er is een praktische oprit langs de woning, naar een GROTE GARAGE, perfect voor de auto en fietsen, maar kan ook als atelier of opslagruimte dienen!Een gezellige TUIN met overdekt TERRAS om blijvend te kunnen genieten.Met een PORTIE LIEFDE ",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3444,7 +3562,7 @@
   {
    "id": "immoweb-21947330",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3476,7 +3594,7 @@
      "publicSale": false,
      "description": "TE RENOVEREN BURGERWONING, Torhoutse Steenweg 350",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3506,7 +3624,7 @@
   {
    "id": "immoweb-21943455",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3538,7 +3656,7 @@
      "publicSale": false,
      "description": "Licht op te frissen rijwoning met 3 slaapkamers, zolder en",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:f51b673b-9091440": {
@@ -3564,7 +3682,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3592,7 +3710,7 @@
   {
    "id": "immoweb-21588802",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3624,7 +3742,7 @@
      "publicSale": false,
      "description": "HALFOPEN BEBOUWING MET OPEN ZICHT",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBV96932": {
@@ -3650,7 +3768,7 @@
      "publicSale": false,
      "description": "Rustig gelegen halfopen bebouwing met prachtig zicht op de polders en een ruime tuin. Ideale ligging vlakbij het centrum van Oudenburg en Gistel, met vlotte verbinding richting Oostende. Scholen en winkels bevinden zich in de nabije omgeving. De woning dient gerenoveerd te worden, maar biedt heel wat potentieel. Op het gelijkvloers bevindt zich momenteel één slaapkamer, die ook perfect een andere invulling kan krijgen, zoals een bureau, hobbyruimte of extra leefruimte. Op de verdieping zijn er nog drie slaapkamers en een polyvalente ruimte aanwezig. Deze woning is ideaal voor wie wil genieten ",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3678,7 +3796,7 @@
   {
    "id": "immoweb-21923151",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3710,7 +3828,7 @@
      "publicSale": false,
      "description": "Instapklare starterswoning met 3 slaapkamers & EPC B!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3738,7 +3856,7 @@
   {
    "id": "immoweb-21936897",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3770,7 +3888,7 @@
      "publicSale": false,
      "description": "Te renoveren woonst, ook voor nieuwbouwproject in Zedelgem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX22491": {
@@ -3796,7 +3914,7 @@
      "publicSale": false,
      "description": "Te renoveren pand op ruim perceel – ook ideaal voor nieuwbouwproject – centraal gelegen langs belangrijke verkeersas in Zedelgem Op zoek naar een strategisch gelegen eigendom met potentieel? Dit te renoveren pand op een royaal perceel biedt talloze mogelijkheden: grondige renovatie, herbestemming of ontwikkeling tot nieuwbouwproject (onder voorbehoud van vergunningen). U geniet hierbij van de 6% BTW regeling voor wederopbouw van woningen. Dankzij de ligging langs een belangrijke verkeersas in Zedelgem geniet u van maximale visibiliteit, vlotte bereikbaarheid en een sterke connectie met omligge",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3827,7 +3945,7 @@
   {
    "id": "immoweb-21933371",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3859,7 +3977,7 @@
      "publicSale": false,
      "description": "5.1% IRR - Halfopen woning met garage en tuin — verkoop op l",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3887,7 +4005,7 @@
   {
    "id": "immoweb-21664076",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -3919,7 +4037,7 @@
      "publicSale": false,
      "description": "Karaktervolle instapklare hoekwoning met inpandige garage e",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8540259": {
@@ -3945,7 +4063,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -3974,7 +4092,7 @@
   {
    "id": "immoweb-21155418",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4006,7 +4124,7 @@
      "publicSale": false,
      "description": "Energiezuinige woning met 4 slpk en tuin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4034,7 +4152,7 @@
   {
    "id": "immoweb-21912267",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4066,7 +4184,7 @@
      "publicSale": false,
      "description": "Vrijstaande woning op mooi hoekperceel (950 m²), Aartrijke.",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4094,7 +4212,7 @@
   {
    "id": "immoweb-21906513",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4126,7 +4244,7 @@
      "publicSale": false,
      "description": "Instapklare woning met 2 slaapkamers en babykamer op toplig",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4154,7 +4272,7 @@
   {
    "id": "immoweb-21902242",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4186,7 +4304,7 @@
      "publicSale": false,
      "description": "Woning met grote tuin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:89dac44b-4478853": {
@@ -4212,7 +4330,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4240,7 +4358,7 @@
   {
    "id": "immoweb-21898264",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4272,7 +4390,7 @@
      "publicSale": false,
      "description": "Alleenstaande statige woning met tuin te Veldegem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:f51b673b-9076126": {
@@ -4298,7 +4416,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4326,7 +4444,7 @@
   {
    "id": "immoweb-21895582",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4358,7 +4476,7 @@
      "publicSale": false,
      "description": "Instapklare woning met dubbele garage, 3 kamers en zongeric",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8634963": {
@@ -4384,7 +4502,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4413,7 +4531,7 @@
   {
    "id": "immoweb-21894072",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4445,7 +4563,7 @@
      "publicSale": false,
      "description": "Halfopen woning met 3 slaapkamers, garage en tuin in Sint-M",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4473,7 +4591,7 @@
   {
    "id": "immoweb-21893061",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4505,7 +4623,7 @@
      "publicSale": false,
      "description": "Gezinswoning met 4 slaapkamers en garage in Sint-Michiels",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4533,7 +4651,7 @@
   {
    "id": "immoweb-21893024",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4565,7 +4683,7 @@
      "publicSale": false,
      "description": "ZEDELGEM: RUIME GEZINSWONING MET 5 SLPKS, GARAGE & TUIN",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX11458": {
@@ -4591,7 +4709,7 @@
      "publicSale": false,
      "description": "Ruimte, licht en een aangename woonbeleving! Achter deze brede gevel ontdek je een INSTAPKLARE GEZINSWONING met 5 SLAAPKAMERS, fantastische TUIN en GARAGE. Totale grondopp. 320m2. Deze trendy woning biedt een ENORM WOONVOLUME en omvat: glvl: inkomhal, royale lichtrijke living, moderne open keuken (voorzien van o.a. gasfornuis, oven, microgolfoven, vaatwas, ijskast, ...) met grote raampartijen (= veel lichtinval), wasplaats, toilet, bureau/slaapkamer/hobbyruimte. 1°V: 4 grote slaapkamers, badkamer (lavabomeubel, douche, ligbad, toilet). Veel berging : kelder + zolder. Zalig genieten in de zonni",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:923ef2f8-4476250": {
@@ -4617,7 +4735,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4645,7 +4763,7 @@
   {
    "id": "immoweb-21763211",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4677,7 +4795,7 @@
      "publicSale": false,
      "description": "Knappe woonst met mogelijkheden!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4705,7 +4823,7 @@
   {
    "id": "immoweb-21873878",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4737,7 +4855,7 @@
      "publicSale": false,
      "description": "Rijwoning met 4 slaapkamers, zonnepanelen en batterij",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBX02074": {
@@ -4763,7 +4881,7 @@
      "publicSale": false,
      "description": "Deze charmante rijwoning op een centrale ligging in Sint-Andries biedt een mooie combinatie van wooncomfort, een praktische indeling en potentieel. Met maar liefst 4 slaapkamers, een extra zolderruimte, zonnepanelen en een thuisbatterij is dit een interessante woning voor starters, gezinnen of handige kopers die de woning verder naar eigen smaak willen opfrissen. Op het gelijkvloers beschikt de woning over een open leefruimte met keuken, eetplaats en living. Daarnaast is er een badkamer met inloopdouche en dubbele lavabo. Achteraan bevindt zich een koer, ideaal als aangename buitenruimte. Op d",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBW93342": {
@@ -4789,7 +4907,7 @@
      "publicSale": false,
      "description": "OOSTKAMP - STARTPRIJS – VLOT BEREIKBAAR woonhuis (4 slaapkamers, garage, parkeergelegenheid,…) met tal van mogelijkheden. TUIN met groot terras omgeven door veel groen. Dit geheel wordt u aangeboden met een startprijs. Tot. opp. 340m². Asbestveilig, goedgekeurde elektriciteit, alarmsysteem,… De bruikbare oppervlakte bedraagt 349m². De ligging nabij een belangrijke verkeersas heeft een BIJZONDER VLOTTE VERBINDING. VEEL POTENTIEEL. Bezoek, kom en ontdek. EPC label F. Vg/Gvkr/Wg/Gmo/Gvv",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4817,7 +4935,7 @@
   {
    "id": "immoweb-21868615",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4849,7 +4967,7 @@
      "publicSale": false,
      "description": "Instapklare gezinswoning met 3 slaapkamers, inpandige garage",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -4877,7 +4995,7 @@
   {
    "id": "immoweb-21625399",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -4909,7 +5027,7 @@
      "publicSale": false,
      "description": "Woonhuis met mogelijkheid tot handelszaak te koop in het ce",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8605101": {
@@ -4935,7 +5053,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5024,7 +5142,7 @@
   {
    "id": "immoweb-21847366",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5056,7 +5174,7 @@
      "publicSale": false,
      "description": "VLOT BEREIKBAAR woonhuis",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5084,7 +5202,7 @@
   {
    "id": "immoweb-21659286",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5116,7 +5234,7 @@
      "publicSale": false,
      "description": "Kwaliteitsvolle nieuwbouwwoning met 3 slpk, garage en tuin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:6d5bae6d-4397603": {
@@ -5142,7 +5260,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5172,7 +5290,7 @@
   {
    "id": "immoweb-21834490",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5204,7 +5322,7 @@
      "publicSale": false,
      "description": "Bel-etage met 2 slaapkamers,  aangenaam dakterras en garage",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5232,7 +5350,7 @@
   {
    "id": "immoweb-21834159",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5264,7 +5382,7 @@
      "publicSale": false,
      "description": "Bel-étage met garage en terras in centrum Aartrijke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5292,7 +5410,7 @@
   {
    "id": "immoweb-21822964",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5324,7 +5442,7 @@
      "publicSale": false,
      "description": "Charmante gezinswoning met 4 slaapkamers op een uitstekende",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBW86300": {
@@ -5350,7 +5468,7 @@
      "publicSale": false,
      "description": "Deze gezinswoning is gelegen in een rustige en gegeerde buurt in Sint-Andries, op korte afstand van het centrum van Brugge. Dankzij de vlotte verbindingen, winkels, scholen en openbaar vervoer in de nabije omgeving geniet je hier van een uitstekende ligging. De beschermde gevel geeft de woning bovendien een karaktervolle uitstraling. De woning beschikt over een woonkamer, keuken en een volledig verharde tuin waar je de hele dag door zon hebt. Verder zijn er vier volwaardige slaapkamers en een vernieuwde badkamer. De woning werd de voorbije jaren grotendeels aangepakt. Zo werd reeds de centrale",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:2580006c-9047924": {
@@ -5376,7 +5494,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5404,7 +5522,7 @@
   {
    "id": "immoweb-21817395",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5436,7 +5554,7 @@
      "publicSale": false,
      "description": "Handelspand met woonst gelegen te Oudenburg",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5464,7 +5582,7 @@
   {
    "id": "immoweb-21811319",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5496,7 +5614,7 @@
      "publicSale": false,
      "description": "COMFORTABEL nabij centrum en station gelegen gesloten bebou",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5524,7 +5642,7 @@
   {
    "id": "immoweb-21796508",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5556,7 +5674,7 @@
      "publicSale": false,
      "description": "Solide woning op rustig locatie te Loppem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5584,7 +5702,7 @@
   {
    "id": "immoweb-21790821",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5616,7 +5734,7 @@
      "publicSale": false,
      "description": "GEZELLIGE DORPSWONING MET TUIN",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5644,7 +5762,7 @@
   {
    "id": "immoweb-21785441",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5676,7 +5794,7 @@
      "publicSale": false,
      "description": "Eigendom met tal van mogelijkheden te Sint-Andries",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5704,7 +5822,7 @@
   {
    "id": "immoweb-21781505",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5736,7 +5854,7 @@
      "publicSale": false,
      "description": "Ruime gezinswoning met 4 slaapkamers en grote tuin in Sint-",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5764,7 +5882,7 @@
   {
    "id": "immoweb-21747757",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5796,7 +5914,7 @@
      "publicSale": false,
      "description": "Goed gelegen te renoveren woonhuis (St Andries)",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5826,7 +5944,7 @@
   {
    "id": "immoweb-21776901",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5858,7 +5976,7 @@
      "publicSale": false,
      "description": "Luxueus vakantieverblijf voor 5 personen te Jabbeke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -5886,7 +6004,7 @@
   {
    "id": "immoweb-21768300",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -5918,7 +6036,7 @@
      "publicSale": false,
      "description": "RUIME gezinswoningen PAL in CENTRUM, met ACHTERWEGEL!!",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:21491175": {
@@ -5944,7 +6062,7 @@
      "publicSale": false,
      "description": "VERRASSEND RUIME gezinswoningen PAL in CENTRUM, met ACHTE...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immoweb:20743805": {
@@ -5970,7 +6088,7 @@
      "publicSale": false,
      "description": "Nieuwbouw centrum Aartrijke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBW67971": {
@@ -5996,7 +6114,7 @@
      "publicSale": false,
      "description": "Deze DEGELIJKE NIEUWBOUWWONINGEN bevinden zich PAL in het CENTRUM van AARTRIJKE, dit op gelegen op wandelafstand van basisschool, buurtwinkels en bushalte.Er worden 2 halfopen en 2 gesloten bebouwingen opgericht, een extra TROEF van deze woningen is, dat de achterliggende tuin telkens bereikbaar is via ACHTERWEGEL!Daarnaast wordt er HEEL wat AANDACHT besteedt aan ENERGIEZUINIGHEID door o.m. vloerverwarming op glvl en verdieping, alsook aanwezigheid zonnepanelen.De woningen omvatten op het gelijkvloerse een inkomhal, afzonderlijk toilet, lichtrijke woonkamer met open ingerichte keuken en bergin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "immovlan:RBV69061": {
@@ -6022,7 +6140,7 @@
      "publicSale": false,
      "description": "Deze DEGELIJKE NIEUWBOUWWONINGEN bevinden zich PAL in het CENTRUM van AARTRIJKE, dit op gelegen op wandelafstand van basisschool, buurtwinkels en bushalte.Er worden 2 halfopen en 2 gesloten bebouwingen opgericht, een extra TROEF van deze woningen is, dat de achterliggende tuin telkens bereikbaar is via ACHTERWEGEL!Daarnaast wordt er HEEL wat AANDACHT besteedt aan ENERGIEZUINIGHEID door o.m. vloerverwarming op glvl en verdieping, alsook aanwezigheid zonnepanelen.De woningen omvatten op het gelijkvloerse een inkomhal, afzonderlijk toilet, lichtrijke woonkamer met open ingerichte keuken en bergin",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6053,7 +6171,7 @@
   {
    "id": "immoweb-21731020",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6085,7 +6203,7 @@
      "publicSale": false,
      "description": "Ruime woning op een landelijke ligging in Zedelgem",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8621807": {
@@ -6111,7 +6229,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6140,7 +6258,7 @@
   {
    "id": "immoweb-21731015",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6172,7 +6290,7 @@
      "publicSale": false,
      "description": "Instapklare rijwoning met garage op toplocatie in hartje Si",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "residentie:8609215": {
@@ -6198,7 +6316,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6227,7 +6345,7 @@
   {
    "id": "immoweb-21720341",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [],
    "ads": {
@@ -6254,7 +6372,7 @@
      "publicSale": false,
      "description": "Nieuwbouw koppelwoning in de Sarkoheemstraat te Jabbeke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6284,7 +6402,7 @@
   {
    "id": "immoweb-21682287",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6316,7 +6434,7 @@
      "publicSale": false,
      "description": "Te renoveren handelszaak met woonst.",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6346,7 +6464,7 @@
   {
    "id": "immoweb-21676465",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [],
    "ads": {
@@ -6373,7 +6491,7 @@
      "publicSale": false,
      "description": "Nieuwbouwwoningen met 3 slaapkamers en tuin in Westkerke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6403,7 +6521,7 @@
   {
    "id": "immoweb-21563905",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6435,7 +6553,7 @@
      "publicSale": false,
      "description": "Halfopen gezinswoning met 3 slaapkamers en prachtige tuin...",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6463,7 +6581,7 @@
   {
    "id": "immoweb-21497304",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6495,7 +6613,7 @@
      "publicSale": false,
      "description": "Centraal gelegen woning met garage en tuin.",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6523,7 +6641,7 @@
   {
    "id": "immoweb-20609941",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6555,7 +6673,7 @@
      "publicSale": false,
      "description": "Herberg te koop te Westkerke",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     },
     "kantoren:f51b673b-8935431": {
@@ -6581,7 +6699,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6609,7 +6727,7 @@
   {
    "id": "immoweb-21043808",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6641,7 +6759,7 @@
      "publicSale": false,
      "description": "Te renoveren vrijstaande woning met prachtig uitzicht in na",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6671,7 +6789,7 @@
   {
    "id": "immoweb-20562901",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6703,7 +6821,7 @@
      "publicSale": false,
      "description": "Kleinschalige verkaveling OUDENBURG",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6731,7 +6849,7 @@
   {
    "id": "zimmo-LSF42",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6763,7 +6881,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6791,7 +6909,7 @@
   {
    "id": "zimmo-LR9C9",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [],
    "ads": {
@@ -6818,7 +6936,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6846,7 +6964,7 @@
   {
    "id": "zimmo-LSIX8",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6878,7 +6996,7 @@
      "publicSale": false,
      "description": "Ideaal gelegen woning net buiten de Brugse binnenstad. Ruime woning met een bureau (gelijkvloers), 3 slaapkamers, garage, grote veranda en zonnige tuin met 2 ruime bergingen. Er is een vlotte verbinding met de autosnelweg, fietsafstand van 't station en op wandelafstand van de Brugse binnenstad. De woning is voorzien van dubbel glas, centrale verwarming, geïsoleerd dak, ….. Zeer gegeerde ligging !!! (wg, gvv, gvg, gmo, gvkr). ### Voor meer info of een bezoek, contacteer ons ### of kom langs op ons kantoor te Hoefijzerlaan 1 ('t Zand) Brugge. - inkom met berging onder trap - living (tegels) - i",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6904,7 +7022,7 @@
   {
    "id": "zimmo-LRKC9",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6936,7 +7054,7 @@
      "publicSale": false,
      "description": "Deze ruime woning heeft 4 slaapkamers en een zonnige tuin, gelegen op fietsafstand van de binnenstad van Brugge en het station. De woning heeft ook een vlotte verbinding met de diverse invalswegen, de autosnelweg en het openbaar vervoer. Verder is er ook nog een garage net om de hoek en met een deur rechtstreeks naar de tuin. Mobiscore van 9,1/10. (sted. inl. in aanvraag). ### Voor meer info of een bezoek, contacteer ons ### of kom langs op ons kantoor te Hoefijzerlaan 1 ('t Zand) Brugge. - ruime inkom - living (tegels) in L-vorm : 30m² - ingerichte keuken : dampkap, gasfornuis en eethoek - ve",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -6962,7 +7080,7 @@
   {
    "id": "immovlan-RBW28346",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -6994,7 +7112,7 @@
      "publicSale": false,
      "description": "Deze caravan staat op een mooi perceel op het domein \"Klein Strand\" te Jabbeke en heeft een gezellige leefruimte met open keuken, badkamer, 2 slaapkamers, terras, tuin en parkeerplaats. Deze wordt volledig ingericht en gemeubeld verkocht. Ideaal om even te ontspannen. ### Voor meer info of een bezoek, contacteer ons ### of kom langs op ons kantoor te Hoefijzerlaan 1 ('t Zand) Brugge. - living (vinyl) met TV \"Sony\" en mobiele airco \"Domo\" - open ingerichte keuken : dampkap, gaskookplaat, frigo en 2e frigo met diepvries en airfryer - badkamer : lavabo en douche - afzonderlijk toilet - 2 slaapkam",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7020,7 +7138,7 @@
   {
    "id": "immovlan-RBX29247",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -7052,7 +7170,7 @@
      "publicSale": false,
      "description": "Te renoveren alleenstaande woning op een perceel van 656m² in Veldegem. De woning omvat een leefruimte, eetkamer, keuken, 3 slaapkamers, dressing, badkamer, berging, wasplaats, kelder en een ruime zolder van ca. 30 m². Buiten beschikt de woning over een ruime tuin van ca. 400 m², die volledig opnieuw aangelegd dient te worden. Daarnaast zijn er 2 garages en 2 parkeerplaatsen aanwezig. De woning is te renoveren en biedt een goede basis voor wie een woning naar eigen wensen en normen wil vernieuwen. Dankzij het ruime perceel en de open bebouwing zijn er verschillende mogelijkheden. Extra troeven",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7080,7 +7198,7 @@
   {
    "id": "immovlan-RBV43895",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -7112,7 +7230,7 @@
      "publicSale": false,
      "description": "Deze woning is gelegen in de gezellige dorpskern van Loppem, op wandelafstand van verschillende handelszaken, de dorpsschool, openbaar vervoer en vlakbij belangrijke verbindingswegen. Op de gelijkvloerse verdieping vinden we een aangename leefruimte met eet- en zithoek, een keuken met een achterliggende badkamer. Vanuit de keuken is het terras toegankelijk. Op de eerste verdieping bevinden zich de masterbedroom en een polyvalente ruimte, die dienst kan doen als thuiskantoor of hobbyruimte. Via een vaste trap is de tweede verdieping toegankelijk waar een tweede, ruime slaapkamer gelegen is. Bij",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7138,7 +7256,7 @@
   {
    "id": "kantoren-3b7117c5-4446451",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -7170,7 +7288,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7198,7 +7316,7 @@
   {
    "id": "kantoren-3b7117c5-4412229",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -7230,7 +7348,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7258,7 +7376,7 @@
   {
    "id": "kantoren-3b7117c5-4409852",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [
     {
@@ -7290,7 +7408,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
@@ -7318,7 +7436,7 @@
   {
    "id": "kantoren-3b7117c5-4134858",
    "firstSeen": "2026-11-16T14:18:33.316Z",
-   "lastSeen": "2026-11-17T14:40:15.396Z",
+   "lastSeen": "2026-11-17T22:59:46.704Z",
    "removedAt": null,
    "priceHistory": [],
    "ads": {
@@ -7345,7 +7463,7 @@
      "publicSale": false,
      "description": "",
      "firstSeen": "2026-11-16T14:18:33.316Z",
-     "lastSeen": "2026-11-17T14:40:15.396Z",
+     "lastSeen": "2026-11-17T22:59:46.704Z",
      "gone": false
     }
    },
